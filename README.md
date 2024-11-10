@@ -61,9 +61,9 @@ The Face Mask Detection project is designed to detect whether a person is wearin
    - Display the results with bounding boxes and labels on the video feed.
 
 ## Output
-
+### Without Mask
 ![without_mask](NoMask.PNG)
-
+### With Mask
 ![with_mask](WithMask.PNG)
 
 
